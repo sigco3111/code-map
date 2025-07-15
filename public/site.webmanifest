@@ -1,0 +1,22 @@
+{
+    "name": "코드맵 생성기",
+    "short_name": "코드맵",
+    "description": "코드 구조를 시각적으로 분석하고 매핑하는 도구",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#10b981",
+    "background_color": "#1f2937",
+    "display": "standalone",
+    "start_url": "/",
+    "orientation": "portrait-primary"
+} 
