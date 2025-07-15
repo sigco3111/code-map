@@ -1,1 +1,21 @@
- 
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#1f2937" rx="4"/>
+  <g fill="#10b981">
+    <!-- 코드 브래킷 -->
+    <path d="M6 8L2 16L6 24" stroke="#10b981" stroke-width="2" fill="none"/>
+    <path d="M26 8L30 16L26 24" stroke="#10b981" stroke-width="2" fill="none"/>
+    
+    <!-- 중앙 연결선 (맵 구조) -->
+    <circle cx="16" cy="16" r="2" fill="#10b981"/>
+    <circle cx="11" cy="12" r="1.5" fill="#10b981"/>
+    <circle cx="21" cy="12" r="1.5" fill="#10b981"/>
+    <circle cx="11" cy="20" r="1.5" fill="#10b981"/>
+    <circle cx="21" cy="20" r="1.5" fill="#10b981"/>
+    
+    <!-- 연결선 -->
+    <line x1="16" y1="16" x2="11" y2="12" stroke="#10b981" stroke-width="1.5"/>
+    <line x1="16" y1="16" x2="21" y2="12" stroke="#10b981" stroke-width="1.5"/>
+    <line x1="16" y1="16" x2="11" y2="20" stroke="#10b981" stroke-width="1.5"/>
+    <line x1="16" y1="16" x2="21" y2="20" stroke="#10b981" stroke-width="1.5"/>
+  </g>
+</svg> 
