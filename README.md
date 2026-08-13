@@ -5,9 +5,9 @@
 
 이 애플리케이션은 로컬 프로젝트 폴더를 선택하기만 하면, 파일, 클래스, 함수 간의 관계를 포함한 전체 코드베이스의 계층적 맵을 동적으로 생성합니다. 모든 처리는 브라우저 내에서 안전하게 이루어지며, 여러분의 코드는 절대 외부로 전송되지 않습니다.
 
-실행주소1 : https://code-map-ruby.vercel.app/
+라이브 데모 : https://sigco3111.github.io/code-map/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/code-map/)
 
 ## ✨ 주요 기능
 
